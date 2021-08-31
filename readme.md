@@ -15,7 +15,7 @@ Steps to perform the user creation:
 Step 1:
 	Create CSV File with the user details as below,
     username,discription,email,password,memberof1,memberof2,memberof3
-    
+![csvfilepic](https://github.com/syed460/ADUserCreation-fromAWSConsole/blob/master/csvfilepic.png "csvfile")
 
 Step 2:
 	Upload the file into S3 bucket > under the folder
