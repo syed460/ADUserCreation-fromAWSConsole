@@ -35,7 +35,5 @@ Step 4:
 
 	C:\<path>\main.ps1 -csvfilename file.csv -user YourUsername -password YourPassword -continue yes
 
-Step 5:
-    Take Screenshot of the output for artifacts
 
 -------------------
